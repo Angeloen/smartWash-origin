@@ -1,17 +1,17 @@
 ## THESIS PROJECT
 
-# The App
+## The App
 Smart Wash
 
-# Description
+## Description
 
 
-# Advanced Requirements 
+## Advanced Requirements 
 
 
-# Instructions
+## Instructions
 
-# Important Information
+## Important Information
 
 ## Express.js
 For this project you will not be using live server but instead a local server has been setup for you
